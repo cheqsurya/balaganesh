@@ -1,3 +1,6 @@
+const u = "now im learning git tool"
+console.log(u)
+
 const calendar =() => {
 
     const year = 2024
